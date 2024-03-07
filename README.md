@@ -62,7 +62,7 @@ employee-management-app/
 | |-- com/
 | |-- development/
 | |-- employeecrud/
-| |-- model/
+| |-- logica/
 | |-- Empleado.java
 | |-- Departamento.java 
 | |-- Controlador.java
@@ -82,7 +82,7 @@ employee-management-app/
 | |-- FechaInvalidaException.java
 
 
-| |-- gui/
+| |-- igu/
 | |-- GestionEmpleados.java
 
 |-- target/
