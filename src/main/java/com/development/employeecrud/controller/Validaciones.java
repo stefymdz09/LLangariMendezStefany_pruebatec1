@@ -19,7 +19,7 @@ public class Validaciones {
             entrada = scanner.nextLine().trim();
 
             if (entrada.isEmpty()) {
-                System.out.println("Error: Debe ingresar un valor/dato para el empleado. Por favor, ingrese un nuevo valor");
+                System.out.println("Error: Este campo es obligatorio. Por favor, ingrese un nuevo valor/dato ");
             }
         } while (entrada == null || entrada.isEmpty());
 

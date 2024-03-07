@@ -28,7 +28,7 @@ La aplicación se centra en la gestión de empleados, permitiendo a los usuarios
 
 ### Agregar un nuevo empleado
 
-Los usuarios podrán ingresar información sobre un nuevo empleado, incluyendo nombre, apellido, cargo, salario ,email y fecha de inicio. Para garantizar la validez de los datos, se aplicarán validaciones, como asegurarse de que los campos obligatorios no estén vacíos.
+Los usuarios podrán ingresar información sobre un nuevo empleado, incluyendo nombre, apellido, cargo, salario ,email, fecha de inicio y el nombre del departamento. Para garantizar la validez de los datos, se aplicarán validaciones, como asegurarse de que los campos obligatorios no estén vacíos.
 
 ### Listar empleados
 
@@ -36,7 +36,7 @@ La aplicación proporciona la funcionalidad para visualizar la lista de todos lo
 
 ### Actualizar información de un empleado
 
-Los usuarios pueden modificar la información de un empleado existente, incluyendo nombre, apellido, cargo, salario, email o fecha de inicio.
+Los usuarios pueden modificar la información de un empleado existente, incluyendo nombre, apellido, cargo, salario, email, fecha de inicio y el nombre del departamento
 
 ### Eliminar un empleado
 
